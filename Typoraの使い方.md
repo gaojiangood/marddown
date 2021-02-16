@@ -62,7 +62,7 @@ https://support.typora.io/
 | ヘッダーレベルを上げる | Ctrl + +      | Cmd + ^      |
 | ヘッダーレベルを下げる | Ctrl + -      | Cmd + -      |
 
-<img src="/Users/gaojian/Library/Application Support/typora-user-images/image-20210120164220790.png" alt="image-20210120164220790" style="zoom:50%;" />
+<img src="./images01/image-20210120164220790.png" alt="image-20210120164220790" style="zoom:50%;" />
 
 # ヘッダー１
 
@@ -89,7 +89,7 @@ https://support.typora.io/
 | 下線           | Ctrl + U      | Cmd + U   |
 | ハイパーリンク | Ctrl + K      | Cmd + K   |
 
-<img src="/Users/gaojian/Library/Application Support/typora-user-images/image-20210120163813700.png" alt="image-20210120163813700" style="zoom:50%;" />
+<img src="./images01/image-20210120163813700.png" alt="image-20210120163813700" style="zoom:50%;" />
 
 - **太字表現**
 - *強調表現*
@@ -99,7 +99,7 @@ https://support.typora.io/
 
 以下に関しては「設定」>「Markdown」>「文法サポート」で有効にした場合、反映されます。(反映するためには文書をreopenする必要)
 
-<img src="/Users/gaojian/Library/Application Support/typora-user-images/image-20210120164618457.png" alt="image-20210120164618457" style="zoom:50%;" />
+<img src="./images01/image-20210120164618457.png" alt="image-20210120164618457" style="zoom:50%;" />
 
 ###  
 
@@ -131,7 +131,7 @@ X^2^
 | :--------- | :--------------- | :--------------- |
 | コード挿入 | Ctrl + Shift + K | Cmd + Option + C |
 
-<img src="/Users/gaojian/Library/Application Support/typora-user-images/image-20210120222106313.png" alt="image-20210120222106313" style="zoom:50%;" />
+<img src="./images01/image-20210120222106313.png" alt="image-20210120222106313" style="zoom:50%;" />
 
 ```python
 def bubble_sort(nums):
@@ -210,7 +210,7 @@ print(random_list_of_nums)
 | 行の追加(行末で行う) | Ctrl + Enter             | Cmd + Enter             |
 | 行の削除             | Ctrl + Shift + Backspace | Cmd + Shift + Backspace |
 
-<img src="/Users/gaojian/Library/Application Support/typora-user-images/image-20210120223040367.png" alt="image-20210120223040367" style="zoom:50%;" />
+<img src="./images01/image-20210120223040367.png" alt="image-20210120223040367" style="zoom:50%;" />
 
 | ID   | 名前   | 組       |
 | ---- | ------ | -------- |
@@ -240,7 +240,7 @@ print(random_list_of_nums)
 
 [ *** ]か[ --- ]を入力してEnterを押下する事で水平線が描画されます。
 
-<img src="/Users/gaojian/Library/Application Support/typora-user-images/image-20210120224222430.png" alt="image-20210120224222430" style="zoom:50%;" />
+<img src="./images01/image-20210120224222430.png" alt="image-20210120224222430" style="zoom:50%;" />
 
 ***
 
@@ -252,7 +252,7 @@ print(random_list_of_nums)
 
 **[toc]**と入力してEnterを押下する事で目次が追加されます。
 
-<img src="/Users/gaojian/Library/Application Support/typora-user-images/image-20210120224319803.png" alt="image-20210120224319803" style="zoom:50%;" />
+<img src="./images01/image-20210120224319803.png" alt="image-20210120224319803" style="zoom:50%;" />
 
 [toc]
 
